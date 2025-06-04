@@ -18,7 +18,7 @@ The dataset used for training is **Customer_Risky_Not_Risky.csv**, which contain
 ### Prerequisites
 - Python 3.x
 - COLAP 
-- Required libraries: pandas, numpy, scikit-learn , matplotlib.pyplot , seaborn
+- Required libraries: pandas, numpy, scikit-learn RandomForestClassifier , matplotlib.pyplot , seaborn
 
 ### Setup
 Clone this repository.
